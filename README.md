@@ -1,3 +1,5 @@
-# Reform14.com
+# Reform14 Front-end Source Code with Vue3 + Vite
 
-## This project still in development, nothing to see from this repo. (for a while)
+Nothing to see here yet, currently starting development after busy days.
+
+use `dev` branch to develop the project
